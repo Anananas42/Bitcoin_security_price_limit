@@ -4,5 +4,5 @@
 
 In development:
 1) Create article structure ✔️
-2) Calculate only with bitcoin mining rewards and energy costs ✔️
+2) Calculate the price limit solely based on mining rewards and energy price ✔️
 3) Take transaction fees into account ❌
