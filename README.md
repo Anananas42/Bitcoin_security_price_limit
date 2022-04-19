@@ -1,5 +1,7 @@
 # Bitcoin_security_price_limit
 
+Fun project to improve my understanding and numerical intuition behind bitcoin's ecosystem.
+
 [Part1](https://medium.com/@pazderka.adam/bitcoins-long-term-security-problem-part-1-c7c7a610b0ba)
 
 In development:
